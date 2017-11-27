@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFrame</string>
+    <string name="camera">拍照</string>
+    <string name="album">相册</string>
+</resources>
